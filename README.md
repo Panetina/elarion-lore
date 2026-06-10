@@ -1,6 +1,8 @@
 # The Folklore of Elarion
-Discord: https://discord.gg/Qgpn92bzQP
-Elarion's next age will come in a few months - only join for dev questions or if you want to be notified when it's starting.
+
+### Join the Discord
+👉 [Discord Server](https://discord.gg/Qgpn92bzQP)
+Elarion's next age will come in a few months — only join for development discussions or if you'd like to be notified when it begins.
 
 - Volume numbers are permanent identifiers.
 - `001-099` are histories, legends, places, and public events.
