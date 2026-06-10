@@ -1,4 +1,7 @@
 # The Folklore of Elarion
+Discord: https://discord.gg/Qgpn92bzQP
+Elarion's next age will come in a few months - only join for dev questions or if you want to be notified when it's starting.
+
 - Volume numbers are permanent identifiers.
 - `001-099` are histories, legends, places, and public events.
 - `101-199` are character books. Each contains only that character's story.
