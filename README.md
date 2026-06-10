@@ -1,26 +1,8 @@
 # The Folklore of Elarion
-
-Author: Panyel  
-Team: Panetina Team
-
-This directory is the numbered source catalog for recoverable folklore books.
-It reconstructs the lost first age of the World of Elarion from surviving
-annals, territory records, public correspondence, and eyewitness accounts.
-
-## Catalog Rules
-
 - Volume numbers are permanent identifiers.
 - `001-099` are histories, legends, places, and public events.
 - `101-199` are character books. Each contains only that character's story.
-- Published books use roleplay names only.
-- A character without a recorded roleplay name receives an archival epithet.
-- Conflicting accounts remain folklore; uncertain claims are not rewritten as
-  objective fact.
-- Source usernames, account identifiers, and out-of-character discussion do
-  not belong in player-facing books.
-
 ## Historical Cycles
-
 1. **The Age Before**: the broken world remembered through fragments.
 2. **The Sundering**: the catastrophe that divided the surviving lands.
 3. **The Fivefold Settlement**: the rebuilding of the five territories.
@@ -49,11 +31,9 @@ annals, territory records, public correspondence, and eyewitness accounts.
 - [017 - Roots That Choose](chronicles/017-roots-that-choose.md)
 
 ## Character Books
-
 Character volumes are indexed in [characters/README.md](characters/README.md).
 
 ## Recovery In The Present Age
-
 The physical originals were dispersed during the Green Silence. Modern
 explorers may eventually discover sealed Echo Scrolls in old roads, collapsed
 archives, ruined homes, abandoned territory halls, and surviving fragments of
